@@ -69,4 +69,7 @@ All final design decisions, integration, testing, and documentation were done ma
 ## Author
 
 RUPDEEP RAY(24CS8023)
+
 NAKUL RAMTEKE(24CS8026)
+
+NIJAMPUDI RAM CHARAN(24CS8024)
