@@ -68,6 +68,8 @@ All final design decisions, integration, testing, and documentation were done ma
 
 ## Author
 
+PRATYAY MAHATO(24CS8021)
+
 TALLAPUDI CHAITANYA KUMAR(24CS8022)
 
 RUPDEEP RAY(24CS8023)
@@ -79,6 +81,7 @@ SHUBHAM MANDAL(24CS8025)
 NAKUL RAMTEKE(24CS8026)
 
 GUDI DEDEEPYA(24CS8029)
+
 
 
 
